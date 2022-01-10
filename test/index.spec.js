@@ -15,7 +15,7 @@ describe("file", () => {
 });
 
 describe("readFile", () => {
-  it("debería retornar un arrego de objetos", () => { 
+  it("debería retornar un arreglo de objetos", () => { 
    const result = [
     {
       text: 'Sitio oficial de GitHub Pages', 

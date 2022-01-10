@@ -1,7 +1,7 @@
 # Markdown Links
 
-## Nombre - md-Links
-Es una librería que esta desarrollada para leer documentos con extensión '.md' y nos permite validar URL o links entregandonos información y sus estados, ejemplo(404, Not Found). 
+## mrg-md-Links
+Es una librería que esta desarrollada para leer documentos con extensión '.md' y nos permite validar URL o links entregándonos información y sus estados, ejemplo(404, Not Found). 
 
 ### Instalación
 ejemplo npm ...
