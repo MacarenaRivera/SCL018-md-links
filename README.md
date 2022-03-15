@@ -32,11 +32,11 @@ Al utilizar la librería deberia mostrarse de la siguiente manera:
 
 ![diagrama de flujo](imagenes/diagramadeflujo.png)
 
-### Creadora
-
-* Macarena Rivera
-
 
 * GitHub Proyects utilizando issues y milestones. 
 
 [Md-links Proyect](https://github.com/MacarenaRivera/SCL018-md-links/projects/1)
+
+### Creadora
+
+* Macarena Rivera
